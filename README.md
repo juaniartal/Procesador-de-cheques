@@ -1,4 +1,4 @@
-# Procesador-de-cheques del curso Full Stack Developer, realizado por el ITBA.
+# Check-processor of the Full Stack Developer course, carried out by ITBA.
 
 
-#Script para procesamiento y busqueda de cheques
+#Script for check processing and search
